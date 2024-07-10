@@ -1,3 +1,3 @@
-FROM userxy2015/ngnix
+FROM ubuntu/nginx
 EXPOSE 80
 
